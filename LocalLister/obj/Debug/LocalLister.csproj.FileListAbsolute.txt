@@ -1,0 +1,9 @@
+D:\Projects\LocalLister\LocalLister\obj\Debug\LocalLister.csprojResolveAssemblyReference.cache
+D:\Projects\LocalLister\LocalLister\obj\Debug\LocalLister.csproj.GenerateResource.Cache
+D:\Projects\LocalLister\LocalLister\obj\Debug\LocalLister.FormMain.resources
+D:\Projects\LocalLister\LocalLister\obj\Debug\LocalLister.Form2.resources
+D:\Projects\LocalLister\LocalLister\bin\Debug\MyLanScanner.exe
+D:\Projects\LocalLister\LocalLister\bin\Debug\MyLanScanner.pdb
+D:\Projects\LocalLister\LocalLister\obj\Debug\MyLanScanner.Properties.Resources.resources
+D:\Projects\LocalLister\LocalLister\obj\Debug\MyLanScanner.exe
+D:\Projects\LocalLister\LocalLister\obj\Debug\MyLanScanner.pdb
